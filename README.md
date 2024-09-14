@@ -1,5 +1,5 @@
 # MEDIAN
-MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image Retrieval
+MEDIAN: Adaptive Intermediate-grained Aggregation Network for Composed Image Retrieval<br>
 Code for our model: MEDIAN
 
 ### Installation
@@ -95,7 +95,7 @@ After downloading the dataset, ensure that the folder structure matches the foll
 
 #### Train
 
-Train PAIR on CIRR, FashionIQ, Shoes.
+Train MEDIAN on CIRR, FashionIQ, Shoes.
 
 ```sh
 python3 train.py 
